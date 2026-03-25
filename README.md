@@ -1,2 +1,31 @@
-# Ultimate-Windows-Privacy-Script
-🔐 Windows AI Privacy Hardening is a lightweight PowerShell toolkit designed to disable AI features, telemetry, and tracking in Windows for a more private and optimized system. It removes Copilot integrations, Recall snapshots, and background AI services, giving users full control of their OS. #Windows #Privacy #CyberSecurity #OpenSource
+# Windows AI Privacy Hardening
+
+Ultimate privacy & debloat script for Windows 11.
+
+This tool disables AI features, telemetry, tracking, and unnecessary services to improve privacy and performance.
+
+## Features
+
+✔ Disable Windows Copilot  
+✔ Disable Windows Recall screenshots  
+✔ Disable Edge AI sidebar and compose  
+✔ Disable Paint AI & Notepad AI  
+✔ Disable Windows telemetry  
+✔ Disable advertising tracking  
+✔ Disable background apps  
+✔ Disable diagnostics tracking service  
+
+## Installation
+
+1. Open PowerShell as Administrator
+2. Run:
+
+powershell -ExecutionPolicy Bypass -File privacy.ps1
+
+## Warning
+
+Use at your own risk. Some Windows features may stop working.
+
+## Author
+
+Created by Siam
